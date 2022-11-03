@@ -19,9 +19,13 @@ Smart Fashion Recommender Application is our IBM Project, which is intended to r
 
 **Team Member :** Harini P
 
+##
+
 **Industry Mentor(s) Name :** Krishna Chaitanya
 
 **Faculty Mentor(s) Name :** M Fathima
+
+##
 
 **Degree :** Bachelor of Engineering/Technology
 
