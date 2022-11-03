@@ -29,6 +29,6 @@ Smart Fashion Recommender Application is our IBM Project, which is intended to r
 
 **Degree :** Bachelor of Engineering/Technology
 
-**Branch :** Computer Science Engineering/Information Technology
+**Branch :** Computer Science and Engineering/Information Technology
 
 **College :** Francis Xavier Engineering College
